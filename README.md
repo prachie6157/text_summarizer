@@ -1,6 +1,6 @@
 
 # Text Summarizer Project Using Flask Framework
-![recipe app reactjs api project]()
+![recipe app reactjs api project](https://github.com/prachie6157/text_summarizer/blob/master/r1.png)
 
 # Industry Name:- Ed-Tech
 
