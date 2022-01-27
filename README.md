@@ -11,3 +11,10 @@ There is a problem of searching for relevant documents from the number of availa
 
 ## Project Description:- 
 Project aims to build Deep learning based solution that generates an Abstractive Text summary of content. After submitting text data or URL user will get summary data in output box. its also show time required to read the previous text and summaries text.
+
+##  Implementation:- 
+Created HTML and CSS page using Visual Studio Code. Created Flask App with SpaCy,NLTK & Sumy. Connected Flask App with Front-End. 
+## Objective of Project:- 
+Reduce reading time When researching documents, summaries make the selection process easier, Effective in creating Short Notes. 
+## Primary Azure Services:-  
+Visual Studio Code, Web App,  App Services
